@@ -1,0 +1,10 @@
+C:\Users\laureen.pgropo\source\repos\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.AssemblyReference.cache
+C:\Users\laureen.pgropo\source\repos\CalculadoraSimples\obj\Debug\CalculadoraSimples.Form1.resources
+C:\Users\laureen.pgropo\source\repos\CalculadoraSimples\obj\Debug\CalculadoraSimples.Properties.Resources.resources
+C:\Users\laureen.pgropo\source\repos\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.GenerateResource.cache
+C:\Users\laureen.pgropo\source\repos\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\laureen.pgropo\source\repos\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe.config
+C:\Users\laureen.pgropo\source\repos\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe
+C:\Users\laureen.pgropo\source\repos\CalculadoraSimples\bin\Debug\CalculadoraSimples.pdb
+C:\Users\laureen.pgropo\source\repos\CalculadoraSimples\obj\Debug\CalculadoraSimples.exe
+C:\Users\laureen.pgropo\source\repos\CalculadoraSimples\obj\Debug\CalculadoraSimples.pdb
